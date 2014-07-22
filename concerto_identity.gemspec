@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = ConcertoIdentity::VERSION
   s.authors     = ["Kenley Cheung"]
   s.email       = ["ken@lordkenthegreat.com"]
-  s.homepage    = "concerto-signage.org"
+  s.homepage    = "http://concerto-signage.org"
   s.summary     = "Abstract identity layer for Concerto"
   s.description = "Provides an abstraction between multiple single sign on identities and Concerto users"
   s.license     = "Apache-2.0"
